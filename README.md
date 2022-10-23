@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bluzir
-- 👀 I’m interested in statups, web3, foodtech
-- 🌱 I’m currently learning web3 development
-- 📫 How to reach me → t.me/bluzir, twitter.com/vladkooklev
+- 👋 Hi, I’m Vlad
+- 👀 I’m interested in statups, web3 and foodtech
+- 🌱 I’m currently learning the web3 development
+- 📫 How to reach me → [t.me/bluzir](https://t.me/bluzir), [twitter.com/vladkooklev](https://twitter.com/vladkooklev)
