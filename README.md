@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vlad
+- 🧑‍💻 Active on Github since 2014
 - 👀 I’m interested in statups, web3 and foodtech
 - 🌱 I’m currently learning the web3 development
 - 📫 How to reach me → [t.me/bluzir](https://t.me/bluzir), [twitter.com/vladkooklev](https://twitter.com/vladkooklev)
