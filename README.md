@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bluzir
+- 👀 I’m interested in statups, web3, foodtech
+- 🌱 I’m currently learning web3 development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me → t.me/bluzir, twitter.com/vladkooklev
