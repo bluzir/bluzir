@@ -12,4 +12,4 @@ Building tools for AI agents — orchestration, security, and harness.
 
 ### Contact
 
-[Telegram](https://t.me/vladkooklev) · [Twitter](https://twitter.com/vladkooklev)
+[Telegram](https://t.me/vladkooklev) · [X](https://x.com/vladkuklev)
